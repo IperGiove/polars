@@ -1,0 +1,1 @@
+initSidebarItems({"enum":[["ClosedWindow",""]],"fn":[["date_range",""],["date_range_vec",""],["in_nanoseconds_window",""]],"struct":[["Duration",""],["DynamicGroupOptions",""],["RollingGroupOptions",""],["Window","Represents a window in time"]],"trait":[["PolarsTemporalGroupby",""],["PolarsTruncate",""],["PolarsUpsample",""]]});

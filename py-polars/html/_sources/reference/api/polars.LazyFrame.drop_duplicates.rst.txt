@@ -1,0 +1,6 @@
+﻿polars.LazyFrame.drop\_duplicates
+=================================
+
+.. currentmodule:: polars
+
+.. automethod:: LazyFrame.drop_duplicates

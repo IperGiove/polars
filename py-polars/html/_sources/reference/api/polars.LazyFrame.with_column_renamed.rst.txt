@@ -1,0 +1,6 @@
+﻿polars.LazyFrame.with\_column\_renamed
+======================================
+
+.. currentmodule:: polars
+
+.. automethod:: LazyFrame.with_column_renamed
